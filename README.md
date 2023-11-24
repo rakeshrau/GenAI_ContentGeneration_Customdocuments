@@ -4,7 +4,7 @@
 
 1.Uses Azure WebApp
 
-2.Uses langchain ,Vector Database ,FAISS 
+2.Uses OpenAI,langchain ,Vector Database ,FAISS 
 
 3.Streaming output similar to ChatGPT
 
